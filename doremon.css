@@ -1,0 +1,172 @@
+.head{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    border-radius: 300px;
+}
+.innercircle{
+    position: absolute;
+    /* top: 59px;
+    left: 33.5px; */
+    height: 220px;
+    width: 220px;
+    margin-top: 80px;
+    margin-left: 38px;
+    background-color: whitesmoke;
+    
+    border-radius: 200px; 
+}
+
+.body{
+    position: absolute;
+    margin-left: 607px;
+    top: 55px;
+}
+
+.eyeone{
+    position: absolute;
+    height: 110px;
+    width: 100px;
+    margin-top: 30px;
+    border: solid black;
+    background-color: white;
+    border-radius: 100px;
+}
+
+.eyetwo{
+    
+    position: absolute;
+    height: 110px;
+    width: 100px;
+    border: solid black;
+    margin-top: 30px;
+    margin-left: 105px;
+    background-color: white;
+    border-radius: 100px;
+}
+
+
+.eyes{
+    margin-left: 46px;
+    margin-top: 0px;
+}
+
+.face{
+    margin-left: 40%;
+    margin-top: 30px;
+}
+
+.smile{
+    position: absolute;
+    height: 60px;
+    width: 140px;
+    margin-top: 180px;
+    margin-left: 76px;
+    border: solid black;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    background-color: whitesmoke;
+}
+.stomach{
+    position: absolute;
+    height: 230px;
+    width: 230px;
+    background-color: blue;
+    border-radius: 30px;
+    margin-top: 240px;
+    margin-left: 33px;
+}
+
+.innercircle2{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin-top: 250px;
+    margin-left: 48px;
+    background-color: whitesmoke;
+    border-radius: 200px; 
+}
+
+.necklace{
+    position: absolute;
+    height: 15px;
+    width: 233px;
+    background-color: red;
+    border-radius: 10px;
+    margin-top: 230px;
+    margin-left: 33px;
+}
+
+.pocket{
+    position: absolute;
+    height: 75px;
+    width: 150px;
+    margin-top: 350px;
+    margin-left: 70px;
+    border: solid black;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    background-color: whitesmoke;
+}
+.hands{
+    margin-left: 568px;
+    
+}
+.hand1{
+   position: absolute;
+    height:150px;
+    width: 65px;
+    background-color: blue;
+    margin-left: 280px;
+    margin-top: 262px;
+    transform: rotate(145deg);
+}
+
+.hand2{
+    position: absolute;
+    height:150px;
+    width: 65px;
+    background-color: blue;
+    margin-left: 30px;
+    margin-top: 262px;
+    transform: rotate(38deg);
+}
+
+.leg1{
+    position: absolute;
+    height: 70px;
+    width: 90px;
+    background-color: blue;
+    margin-left: 640px;
+    margin-top: 470px;
+}
+
+.leg2{
+    position: absolute;
+    height: 70px;
+    width: 90px;
+    background-color: blue;
+    margin-left: 780px;
+    margin-top: 470px;
+}
+
+.eyeball1{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    background-color: black;
+    margin-left: 675px;
+    margin-top: 60px;
+}
+
+.eyeball2{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    background-color: black;
+    margin-left: 780px;
+    margin-top: 60px;
+}
