@@ -5,6 +5,7 @@
     background-color: blue;
     border-radius: 300px;
 }
+
 .innercircle{
     position: absolute;
     /* top: 59px;
@@ -14,7 +15,6 @@
     margin-top: 80px;
     margin-left: 38px;
     background-color: whitesmoke;
-    
     border-radius: 200px; 
 }
 
@@ -34,8 +34,7 @@
     border-radius: 100px;
 }
 
-.eyetwo{
-    
+.eyetwo{   
     position: absolute;
     height: 110px;
     width: 100px;
@@ -45,7 +44,6 @@
     background-color: white;
     border-radius: 100px;
 }
-
 
 .eyes{
     margin-left: 46px;
@@ -59,15 +57,16 @@
 
 .smile{
     position: absolute;
-    height: 60px;
+    height: 40px;
     width: 140px;
-    margin-top: 180px;
+    margin-top: 190px;
     margin-left: 76px;
     border: solid black;
     border-bottom-left-radius: 150px;
     border-bottom-right-radius: 150px;
     background-color: whitesmoke;
 }
+
 .stomach{
     position: absolute;
     height: 230px;
@@ -94,8 +93,9 @@
     width: 233px;
     background-color: red;
     border-radius: 10px;
-    margin-top: 230px;
-    margin-left: 33px;
+    margin-top: 226px;
+    margin-left: 31.6px;
+    border: solid black;
 }
 
 .pocket{
@@ -109,11 +109,13 @@
     border-bottom-right-radius: 150px;
     background-color: whitesmoke;
 }
-.hands{
-    margin-left: 568px;
-    
+
+
+.arms{
+    margin-left: 568px;    
 }
-.hand1{
+
+.arm1{
    position: absolute;
     height:150px;
     width: 65px;
@@ -123,7 +125,7 @@
     transform: rotate(145deg);
 }
 
-.hand2{
+.arm2{
     position: absolute;
     height:150px;
     width: 65px;
@@ -169,4 +171,150 @@
     background-color: black;
     margin-left: 780px;
     margin-top: 60px;
+}
+
+.feet1{
+    position: absolute;
+    height: 30px;
+    width: 86px;
+    border: solid black;
+    margin-top: 540px;
+    margin-left: 640px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.feet2{
+    position: absolute;
+    height: 30px;
+    width: 86px;
+    border: solid black;
+    margin-top: 540px;
+    margin-left: 780px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px; 
+}
+
+.hand1{
+    position: absolute;
+    height: 30px;
+    width: 61px;
+    border: solid black;
+    transform: rotate(38deg);
+    margin-top: 390px;
+    margin-left: 542px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.hand2{
+    position: absolute;
+    height: 28px;
+    width: 60px;
+    border: solid black;
+    transform: rotate(145deg);
+    margin-top: 392px;
+    margin-left: 899px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.nose{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    border: solid black;
+    background-color: red;
+    margin-left: 741.5px;
+    margin-top: 115px;
+}
+
+.noseline{
+    position: absolute;
+    height: 37px;
+    width: 0;
+    border: solid black;
+    margin-left: 757px;
+    margin-top: 150px;
+}
+
+.moustach1{
+    position: absolute;
+    height: 0;
+    width: 70px;
+    border: solid black;
+    margin-top: 160px;
+    margin-left:630px;
+}
+
+.moustach2{
+    position: absolute;
+    height: 0;
+    width: 70px;
+    border: solid black;
+    margin-top: 140px;
+    margin-left:632px;
+    transform: rotate(15deg);
+}
+
+.moustach3{
+    position: absolute;
+    height: 0;
+    width: 70px;
+    border: solid black;
+    margin-top: 180px;
+    margin-left:633px;
+    transform: rotate(164deg);
+}
+
+.moustach4{
+    position: absolute;
+    height: 0;
+    width: 70px;
+    border: solid black;
+    margin-top: 160px;
+    margin-left:815px;
+}
+
+.moustach5{
+    position: absolute;
+    height: 0;
+    width: 70px;
+    border: solid black;
+    margin-top: 142px;
+    margin-left:813px;
+    transform: rotate(168deg);
+}
+
+.moustach6{
+    position: absolute;
+    height: 0;
+    width: 70px;
+    border: solid black;
+    margin-top: 178px;
+    margin-left:813px;
+    transform: rotate(12deg);
+}
+
+.innereyeball1{
+    position: absolute;
+    height: 20px;
+    width: 15px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    border: solid black;
+    margin-left: 710px;
+    margin-top: 80px;
+}
+
+.innereyeball2{
+    position: absolute;
+    height: 20px;
+    width: 14px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    border: solid black;
+    margin-left: 785px;
+    margin-top: 80px;
 }
