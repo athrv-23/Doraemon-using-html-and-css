@@ -4,6 +4,7 @@
     width: 300px;
     background-color: blue;
     border-radius: 300px;
+    border: solid black;
 }
 
 .innercircle{
@@ -76,6 +77,7 @@
     border-radius: 30px;
     margin-top: 240px;
     margin-left: 33px;
+   /* border:solid black;*/
 }
 
 .innercircle2{
@@ -113,7 +115,7 @@
 
 
 .arms{
-    margin-left: 568px;    
+    margin-left: 568px;   
 }
 
 .arm1{
